@@ -31,9 +31,6 @@ Telegram Kullanıcı
 |-------|-------|
 | `/arastir <konu>` | Web'de arama yapar, sonuçları AI ile analiz eder |
 | `/ozet` | Mesajla birlikte gönderilen PDF'i özetler |
-| `/hatirla` | Hafızaya kayıt (placeholder) |
-| `/hatirlat` | Hatırlatıcı kur (placeholder) |
-| `/cevir` | Çeviri (placeholder) |
 | *(serbest mesaj)* | Genel AI sohbet (Gemini) |
 
 ## ⚙️ Kurulum
